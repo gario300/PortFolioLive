@@ -1,0 +1,14 @@
+{
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "Day": {
+    "description": "Auto imported from components/day.vue"
+  },
+  "Nigth": {
+    "description": "Auto imported from components/nigth.vue"
+  }
+}

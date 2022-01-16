@@ -1,0 +1,19 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/day.js": "components/day.js",
+    "components/nigth.js": "components/nigth.js",
+    "components/nuxt-logo.js": "components/nuxt-logo.js",
+    "components/tutorial.js": "components/tutorial.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/day.js": "components/day.js.map",
+    "components/nigth.js": "components/nigth.js.map",
+    "components/nuxt-logo.js": "components/nuxt-logo.js.map",
+    "components/tutorial.js": "components/tutorial.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
